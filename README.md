@@ -1,5 +1,6 @@
 # Prac-Rat
 
-First repo for the "RattusMaximus" project
+Practice Rat
+Repo for the "RattusMaximus" project
 
-Developed with Unreal Engine 4
+Developed with Unreal Engine 5
